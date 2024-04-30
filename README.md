@@ -11,6 +11,8 @@ Elenco di risorse in tema finanziario per utenti italiani
 - [TrackingDifferences](https://www.trackingdifferences.com/)
 - [QualeBTP](https://www.qualebtp.it/)
 - [Deposifire](https://deposifire.com/)
+- [Stipendee](https://www.stipendee.it/)
+- [StockOne Page](https://stockone.page/)
 
 ---
 
@@ -21,6 +23,7 @@ Elenco di risorse in tema finanziario per utenti italiani
 - [Finanza Cafona](https://finanzacafona.it/)
 - [The Italian Leather Sofa](https://theitalianleathersofa.com/)
 - [Moontower](https://moontower.substack.com/)
+- [Oro, Spezie e Tulipani](https://orospezietulipani.blogspot.com/)
 
 ---
 
@@ -28,4 +31,15 @@ Elenco di risorse in tema finanziario per utenti italiani
 
 - Starting Finance
 - I 4 pilastri dell’investimento
-- 
+
+---
+
+# Multimedia
+
+- Paolo Coletti
+- Mr. RIP
+- The Bull
+- Guido Cardinali
+- Pietro Michelangeli
+- Starting Finance
+- Ciao.Elsa
