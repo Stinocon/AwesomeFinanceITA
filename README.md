@@ -1,7 +1,7 @@
 # AwesomeFinanceITA
-Elenco di risorse in tema finanziario per utenti italiani
+Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 
-# Tools
+# Tools 🛠️
 
 - [Financedrip](https://www.financedrip.com/it/feed/)
 - [justETF](https://www.justetf.com/it/)
@@ -16,7 +16,7 @@ Elenco di risorse in tema finanziario per utenti italiani
 
 ---
 
-# Blog
+# Blog 📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
@@ -27,19 +27,24 @@ Elenco di risorse in tema finanziario per utenti italiani
 
 ---
 
-# Libri
+# Libri 📚
 
-- Starting Finance
+- Instant Finance
 - I 4 pilastri dell’investimento
+- Il piccolo libro dell'investimento
+- Giocati dal caso
+- Il milionario della porta accanto
+- Il Cigno nero: Come l'improbabile governa la nostra vita
+- La psicologia dei soldi
 
 ---
 
-# Multimedia
+# Multimedia 🎙️
 
-- Paolo Coletti
-- Mr. RIP
-- The Bull
-- Guido Cardinali
-- Pietro Michelangeli
-- Starting Finance
-- Ciao.Elsa
+- [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
+- [Mr. RIP](https://www.youtube.com/@mr_rip)
+- [The Bull](https://open.spotify.com/show/2cQw8L6e7XXA90K1LpZekV)
+- [Guido Cardinali](https://www.youtube.com/@nanday_)
+- [Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)
+- [Starting Finance](https://www.youtube.com/@StartingFinance)
+- [Ciao Elsa](https://www.youtube.com/@CiaoElsa)
