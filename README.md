@@ -13,6 +13,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [Deposifire](https://deposifire.com/)
 - [Stipendee](https://www.stipendee.it/)
 - [StockOne Page](https://stockone.page/)
+- [Curvo](https://curvo.eu/it)
 
 ---
 
