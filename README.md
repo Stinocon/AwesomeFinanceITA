@@ -16,7 +16,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 
 ---
 
-# Blog 📃
+# Blog e inforgrafiche📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
@@ -24,6 +24,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [The Italian Leather Sofa](https://theitalianleathersofa.com/)
 - [Moontower](https://moontower.substack.com/)
 - [Oro, Spezie e Tulipani](https://orospezietulipani.blogspot.com/)
+- [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ---
 
