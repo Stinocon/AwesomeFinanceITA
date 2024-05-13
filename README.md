@@ -1,5 +1,5 @@
 # AwesomeFinanceITA
-Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
+Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link non sono inseriti in ordine specifico o per importanza.
 
 # Tools 🛠️
 
@@ -15,7 +15,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [StockOne Page](https://stockone.page/)
 - [Curvo](https://curvo.eu/it)
 
-# Blog e inforgrafiche📃
+# Blog e inforgrafiche 📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
