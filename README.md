@@ -15,8 +15,6 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [StockOne Page](https://stockone.page/)
 - [Curvo](https://curvo.eu/it)
 
----
-
 # Blog e inforgrafiche📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
@@ -28,8 +26,6 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [Visual Capitalist](https://www.visualcapitalist.com/)
 - [I Soldi degli altri](https://isoldideglialtri.com/)
 
----
-
 # Libri 📚
 
 - Instant Finance
@@ -39,8 +35,6 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - Il milionario della porta accanto
 - Il Cigno nero: Come l'improbabile governa la nostra vita
 - La psicologia dei soldi
-
----
 
 # Multimedia 🎙️
 
