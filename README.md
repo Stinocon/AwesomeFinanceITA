@@ -26,6 +26,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo)
 - [Moontower](https://moontower.substack.com/)
 - [Oro, Spezie e Tulipani](https://orospezietulipani.blogspot.com/)
 - [Visual Capitalist](https://www.visualcapitalist.com/)
+- [I Soldi degli altri](https://isoldideglialtri.com/)
 
 ---
 
