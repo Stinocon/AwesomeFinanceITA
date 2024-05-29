@@ -25,6 +25,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Oro, Spezie e Tulipani](https://orospezietulipani.blogspot.com/)
 - [Visual Capitalist](https://www.visualcapitalist.com/)
 - [I Soldi degli altri](https://isoldideglialtri.com/)
+- [Rational Reminder](https://rationalreminder.ca/)
 
 # Libri 📚
 
