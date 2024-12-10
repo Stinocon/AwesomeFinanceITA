@@ -15,7 +15,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [StockOne Page](https://stockone.page/)
 - [Curvo](https://curvo.eu/it)
 
-# Blog e inforgrafiche 📃
+# Blog e infografiche 📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
