@@ -1,9 +1,8 @@
 # AwesomeFinanceITA
-Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link non sono inseriti in ordine specifico o per importanza.
+Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link NON sono inseriti in ordine specifico o per importanza.
 
 # Tools 🛠️
 
-- [Financedrip](https://www.financedrip.com/it/feed/)
 - [justETF](https://www.justetf.com/it/)
 - [Investopedia](https://www.investopedia.com/)
 - [povero.im](https://www.povero.im/)
@@ -12,8 +11,9 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [QualeBTP](https://www.qualebtp.it/)
 - [Deposifire](https://deposifire.com/)
 - [Stipendee](https://www.stipendee.it/)
-- [StockOne Page](https://stockone.page/)
+- [StockOne Page](https://stockone.page/) 
 - [Curvo](https://curvo.eu/it)
+- [Ghostfolio](https://ghostfol.io)
 
 # Blog e infografiche 📃
 
@@ -46,3 +46,4 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)
 - [Starting Finance](https://www.youtube.com/@StartingFinance)
 - [Ciao Elsa](https://www.youtube.com/@CiaoElsa)
+- [Too Big To Fail](https://open.spotify.com/show/6beSNv77mWZ0oL9LdW3JLp?si=967e57b777ba418d)
