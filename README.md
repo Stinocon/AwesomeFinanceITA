@@ -8,6 +8,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [povero.im](https://www.povero.im/)
 - [SimpleToolsForInvestors](https://www.simpletoolsforinvestors.eu/index.shtml)
 - [TrackingDifferences](https://www.trackingdifferences.com/)
+- [TrackInsight](https://www.trackinsight.com/)
 - [QualeBTP](https://www.qualebtp.it/)
 - [Deposifire](https://deposifire.com/)
 - [Stipendee](https://www.stipendee.it/)
