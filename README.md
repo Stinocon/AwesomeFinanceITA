@@ -1,7 +1,16 @@
 # AwesomeFinanceITA
 Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link NON sono inseriti in ordine specifico o per importanza.
 
-# Tools 🛠️
+## Indice 📝
+
+- [Tools 🛠️](#tools-%EF%B8%8F)
+- [Blog e infografiche 📃](#blog-e-infografiche-)
+- [Libri 📚](#libri-)
+- [Multimedia 🎙️](#multimedia-%EF%B8%8F)
+  - [Youtube](#youtube)
+  - [Podcast](#podcast)
+
+## Tools 🛠️
 
 - [justETF](https://www.justetf.com/it/)
 - [Investopedia](https://www.investopedia.com/)
@@ -16,7 +25,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Curvo](https://curvo.eu/it)
 - [Ghostfolio](https://ghostfol.io)
 
-# Blog e infografiche 📃
+## Blog e infografiche 📃
 
 - [FinanzaOnline](https://www.finanzaonline.com/)
 - [Banker on Wheels](https://www.bankeronwheels.com/)
@@ -28,7 +37,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [I Soldi degli altri](https://isoldideglialtri.com/)
 - [Rational Reminder](https://rationalreminder.ca/)
 
-# Libri 📚
+## Libri 📚
 
 - Instant Finance
 - I 4 pilastri dell’investimento
@@ -38,13 +47,16 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - Il Cigno nero: Come l'improbabile governa la nostra vita
 - La psicologia dei soldi
 
-# Multimedia 🎙️
+## Multimedia 🎙️
 
+### Youtube
 - [Paolo Coletti](https://www.youtube.com/@PaoloColetti)
 - [Mr. RIP](https://www.youtube.com/@mr_rip)
-- [The Bull](https://open.spotify.com/show/2cQw8L6e7XXA90K1LpZekV)
-- [Guido Cardinali](https://www.youtube.com/@nanday_)
 - [Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)
+- [Guido Cardinali](https://www.youtube.com/@nanday_)
 - [Starting Finance](https://www.youtube.com/@StartingFinance)
 - [Ciao Elsa](https://www.youtube.com/@CiaoElsa)
+
+### Podcast
+- [The Bull](https://open.spotify.com/show/2cQw8L6e7XXA90K1LpZekV)
 - [Too Big To Fail](https://open.spotify.com/show/6beSNv77mWZ0oL9LdW3JLp?si=967e57b777ba418d)
