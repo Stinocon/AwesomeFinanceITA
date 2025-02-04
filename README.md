@@ -24,6 +24,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [StockOne Page](https://stockone.page/) 
 - [Curvo](https://curvo.eu/it)
 - [Ghostfolio](https://ghostfol.io)
+- [Analisi Portafoglio Directa](https://ilbonte.github.io/directa-analyzer/)
 
 ## Blog e infografiche 📃
 
