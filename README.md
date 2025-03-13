@@ -48,6 +48,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - Il milionario della porta accanto
 - Il Cigno nero: Come l'improbabile governa la nostra vita
 - La psicologia dei soldi
+- Sei già ricco ma non lo sai 
 
 ## Multimedia 🎙️
 
@@ -62,3 +63,4 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 ### Podcast
 - [The Bull](https://open.spotify.com/show/2cQw8L6e7XXA90K1LpZekV)
 - [Too Big To Fail](https://open.spotify.com/show/6beSNv77mWZ0oL9LdW3JLp?si=967e57b777ba418d)
+- [Mele Marce](https://open.spotify.com/show/7czXJOvl7o3OqTQ95xEltS?si=430428f7dd944283)
