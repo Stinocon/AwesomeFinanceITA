@@ -25,7 +25,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Curvo](https://curvo.eu/it)
 - [Ghostfolio](https://ghostfol.io)
 - [Analisi Portafoglio Directa](https://ilbonte.github.io/directa-analyzer/)
-- [PortfolioPilot] (https://portfoliopilot.app/)
+- [PortfolioPilot](https://portfoliopilot.app/)
 
 ## Blog e infografiche 📃
 
