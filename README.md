@@ -1,5 +1,5 @@
 # AwesomeFinanceITA
-Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link NON sono inseriti in ordine specifico o per importanza.
+Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link **NON** sono inseriti in ordine specifico o per importanza.
 
 ## Indice 📝
 
