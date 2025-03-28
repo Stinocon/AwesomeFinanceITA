@@ -26,6 +26,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Ghostfolio](https://ghostfol.io)
 - [Analisi Portafoglio Directa](https://ilbonte.github.io/directa-analyzer/)
 - [PortfolioPilot](https://portfoliopilot.app/)
+- [Testfolio](https://testfol.io/)
 
 ## Blog e infografiche 📃
 
