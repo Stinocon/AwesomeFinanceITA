@@ -27,6 +27,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [Analisi Portafoglio Directa](https://ilbonte.github.io/directa-analyzer/)
 - [PortfolioPilot](https://portfoliopilot.app/)
 - [Testfolio](https://testfol.io/)
+- [Heatmap screener](https://finviz.com/map.ashx)
 
 ## Blog e infografiche 📃
 
