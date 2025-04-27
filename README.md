@@ -28,6 +28,7 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [PortfolioPilot](https://portfoliopilot.app/)
 - [Testfolio](https://testfol.io/)
 - [Heatmap screener](https://finviz.com/map.ashx)
+- [DCA PAL](https://dcapal.com/)
 
 ## Blog e infografiche 📃
 
