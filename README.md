@@ -42,6 +42,10 @@ Raccolta di risorse a tema finanziario per utenti italiani (ma non solo). I link
 - [I Soldi degli altri](https://isoldideglialtri.com/)
 - [Rational Reminder](https://rationalreminder.ca/)
 
+## Cose varie 🌳
+
+- [Wattene](https://wattene.it/)
+
 ## Libri 📚
 
 - Instant Finance
