@@ -73,7 +73,6 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Paolo Coletti](https://www.youtube.com/@PaoloColetti)**
 - **[Mr. RIP](https://www.youtube.com/@mr_rip)**
 - **[Pietro Michelangeli](https://www.youtube.com/@PietroMichelangeli)**
-- **[Guido Cardinali](https://www.youtube.com/@nanday_)**
 - **[Starting Finance](https://www.youtube.com/@StartingFinance)**
 - **[Ciao Elsa](https://www.youtube.com/@CiaoElsa)**
 
