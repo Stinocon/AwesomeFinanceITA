@@ -30,6 +30,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Backtesto](https://backtes.to/)** - Backtesting portafogli
 - **[Testfolio](https://testfol.io/)** - Tool per testare strategie
 - **[Finviz Heatmap](https://finviz.com/map.ashx)** - Heatmap mercato
+- **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori
 
 ## 📰 Blog e Risorse educative
 
@@ -87,6 +88,6 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 Hai trovato una risorsa utile? Apri una pull request. Hai trovato un link morto? Segnalalo nelle issue. 
 
 **Criteri per l'inclusione:**
-- Deve essere utile per investitori italiani
+- Deve essere utile per investitori italiani (non necessariamente in lingua italiana)
 - Gratis o con versione gratuita decente
 - Non deve essere spam/affiliate marketing mascherato
