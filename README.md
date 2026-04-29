@@ -12,17 +12,17 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - [🎥 YouTube](#-youtube)
 - [🎧 Podcast](#-podcast)
 
-## 🛠️ Tools e calcolatori
+## 🛠️ Tools
 
 - **[justETF](https://www.justetf.com/it/)** - Il migliore per scremare ETF europei
 - **[Investopedia](https://www.investopedia.com/)** - Enciclopedia finanziaria, in inglese ma ne vale la pena
 - **[povero.im](https://www.povero.im/)** - Calcolatori per pianificazione finanziaria, nome ironico ma tool serio
 - **[SimpleToolsForInvestors](https://www.simpletoolsforinvestors.eu/index.shtml)** - Portfolio analyzer e backtesting gratuito
+- **[Ghostfolio](https://ghostfol.io)** - Portfolio tracker open source
 - **[QualeBTP](https://www.qualebtp.it/)** - Per chi ama i BTP e il rischio Italia
 - **[Deposifire](https://deposifire.com/)** - Confronto conti deposito
 - **[Stipendee](https://www.stipendee.it/)** - Calcolatore netto/lordo stipendi
 - **[Curvo](https://curvo.eu/it)** - Backtesting gratuito
-- **[Ghostfolio](https://ghostfol.io)** - Portfolio tracker open source
 - **[DCA PAL](https://dcapal.com/)** - Simulatore Dollar Cost Averaging
 - **[TrackingDifferences](https://www.trackingdifferences.com/)** - Tracking error degli ETF
 - **[TrackInsight](https://www.trackinsight.com/)** - Analisi dettagliata ETF
@@ -31,7 +31,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Testfolio](https://testfol.io/)** - Tool per testare strategie
 - **[Finviz Heatmap](https://finviz.com/map.ashx)** - Heatmap mercato
 - **[PortfoliosLab](https://portfolioslab.com)** - Perf and Risk / Analysys, Optimization, Factor Model, PFs, Screeners
-- **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori
+
 
 ## 📰 Blog e Risorse educative
 
@@ -48,8 +48,8 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 ## 🧮 Strumenti vari
 
 - **[Wattene](https://wattene.it/)** - Comparazione tariffe energia
-- **[Calcolafisco](https://www.calcolafisco.com/)** - Calcolatori fiscali vari
-- **[MangoMoney](https://github.com/Stinocon/MangoMoney)** - App open source per gestione patrimonio/portafoglio
+- **[Calcolafisco](https://www.calcolafisco.com/)** - Calcolatori fiscali
+- **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori vari
 
 ## 📚 Libri
 
