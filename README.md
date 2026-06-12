@@ -50,7 +50,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Wattene](https://wattene.it/)** - Comparazione tariffe energia
 - **[Calcolafisco](https://www.calcolafisco.com/)** - Calcolatori fiscali
 - **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori vari
-- **[Spenda](https://spenda.it/osservatorio-prezzi)** - Spenda - osservatorio prezzi
+- **[Spenda](https://spenda.it/osservatorio-prezzi)** - Osservatorio prezzi
 
 ## 📚 Libri
 
