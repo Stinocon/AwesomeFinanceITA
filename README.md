@@ -47,6 +47,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 
 ## 🧮 Strumenti vari
 
+- **[CalcolaPro](https://calcolapro.it/)** - 39 calcolatori fiscali, previdenziali e finanziari italiani, ognuno con le fonti normative citate in pagina
 - **[Wattene](https://wattene.it/)** - Comparazione tariffe energia
 - **[Calcolafisco](https://www.calcolafisco.com/)** - Calcolatori fiscali
 - **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori vari
