@@ -31,6 +31,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Testfolio](https://testfol.io/)** - Tool per testare strategie
 - **[Finviz Heatmap](https://finviz.com/map.ashx)** - Heatmap mercato
 - **[PortfoliosLab](https://portfolioslab.com)** - Perf and Risk / Analysys, Optimization, Factor Model, PFs, Screeners
+- **[SiftingIO](https://sifting.io/tools/market-data-export)** - Grafici e download CSV/Excel di dati su azioni USA, forex, materie prime e criptovalute. Anteprima limitata delle ultime 24 ore senza account; storico più ampio con account e chiave API, nei limiti del piano. Piano gratuito per uso interno non commerciale.
 
 
 ## 📰 Blog e Risorse educative
