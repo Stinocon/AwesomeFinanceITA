@@ -52,6 +52,7 @@ Una raccolta più o meno **curata** di risorse finanziarie per investitori itali
 - **[Calcolafisco](https://www.calcolafisco.com/)** - Calcolatori fiscali
 - **[FaiDueConti](https://www.faidueconti.it/)** - Calcolatori vari
 - **[Spenda](https://spenda.it/osservatorio-prezzi)** - Osservatorio prezzi
+- **[ShrinkWatch EU](https://github.com/emirmrkaljevic/shrinkwatch-eu)** - Estensione per Firefox e Chrome che mostra il prezzo al kg o al litro su Esselunga, Carrefour, Lidl e altri negozi europei e avvisa quando una confezione si rimpicciolisce a parità di prezzo
 
 ## 📚 Libri
 
